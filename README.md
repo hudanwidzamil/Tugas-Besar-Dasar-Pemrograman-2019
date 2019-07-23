@@ -6,6 +6,6 @@ Vincentius Lienardo\
 Marholop S.\
 Muhamad Hudan Widzamil\
 Evan Pradanika\
-Halimul Hakim Khairul\
+Halimul Hakim Khairul
 
 Membuat sistem informasi perpustakaan.
